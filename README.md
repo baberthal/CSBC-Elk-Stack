@@ -2,6 +2,12 @@
 
 Elk Stack Project for CSBC
 
+## Network Setup Overview
+
+The following is a diagram of the network setup for the elk stack:
+
+![elk-stack-diagram](./images/Elk-Stack-Diagram.png)
+
 ## Ansible Directory Structure
 
 The following directory structure is used to store anisble configurations:
