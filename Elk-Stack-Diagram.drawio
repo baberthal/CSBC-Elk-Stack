@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T02:33:23.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="D_kWdlLjpXwn8DUBKTvx" version="14.0.1" type="device"><diagram id="p6JLM_8M2Qhi4dKrnYwR" name="Page-1">5VpRc5s4EP41nrl7sEcgMPgxtuM2c81N5tq56z1lZJCxGoE4IRy7v74SCBsQSdyLE+ImmUnQSkJiv91vdwUDOIu3HzhK19csxHRgg3A7gPOBbVuOPZb/lGRXSjzPLgURJ6EedBB8Jt+xFgItzUmIs8ZAwRgVJG0KA5YkOBANGeKc3TeHrRhtrpqiCBuCzwGipvQfEoq1lloAHDo+YhKt9dK+qztiVA3WgmyNQnZfE8HLAZxxxkR5FW9nmCrlVXop5y0e6N1vjONEHDMBC7pa/fXHf8n1lw+7q+VkThZfh77em9hVD4xD+fy6ybhYs4gliF4epFPO8iTE6q5Atg5jPjGWSqElhd+wEDsNJsoFk6K1iKnuLddUCz34KFqUsZwH+JH9VyaBeITFI+PgXuHSUjGLseA7OY9jigTZNPeBtMlE+3EHrcoLrdifULI17kPLUpd891XNH7lV8199u6Ix3zZau3rrBnMiHx5zLewBMgv0ill53w2iuV6J43AoMIqHIV6hnIphgsU943cGtihLSyZaka0CsA5Kykgiir2604E7lxJESZRIQSAVqdQ9JXFBSdMVS4QG17IP8jmJI/lElCzlX/Q951g9qd4LSVTf34SLHNHbP0thNso20R7DDeYCbx9H0VS6nuBrLtNkbrmTsn1fo0bolLJ1nRXBC8HknTl/2WfBX71o+a3y17GQWXafmNkGf2F6pyjrPdGV4701vnIMWM6cwOCx3tCnM7jvVeu9UhA0tJ5iScvK51vKZ7mgJMGzfQ0HNKHMGGW8GAPl70ItPo04Cgk+9CUsKfiHUFob7l5AMFVxIxOc3eHW4BBl6z2UimKIrPg+oSWmNywjgjBFcUsmBItrAy409wkFuMmENajbZFi09fOqJQ3OLYgW88sNLvlW3UQWjKmaEG8jVVuP0H3mjCoVnoQfIbCa/DgGBj96vkmPlez0UcsybOO8HPPZRYueeqPs4QCU5XgNoFzQClAlE+hZLRD223hGBggMX/6Wx+lwybYGYE+6U03zR3pWpw+3HB6A6eXC7nIblXSMNjrJiFGwJsX8E/jPpIkK7HCf/UHRq6QXNuzDfx7K1IdgBJxJ38cNx+brdq/BstpmK2HfxO/Zvxz/zTmYZ8CEEpItJTg2CHFK2S7GBXOjJBwUx9IrEuUcFSD16ZvKGf1GHT1yi9ykV+f0X8s5u+PqxG6GVagY7JjAesE52tWG6UL5wYUcAForWfXb/ex4eVHu4LRR3u8w7oxo42bBnTSBwqQFki7ODXN+xZOEOAuQ3NViXuzqdCcGlt2yCMtkHLeDcJwXK6LcPljjhC5eKfTpI85+z8u6429l9b+epbvWW7N0s8YwTT8JL9RLXaVMirKMBA9loq1I97Jx7n+fBT+h60r2zCgHYSuY2K30qHRiI8g9GZUc53XLUDg2TOTq4loKZkWaNbDHKFYJbrLM0gLAMZWanC6lA48jdfXbjSRDOd4Hv585rT6bLbsRdsftvOPYjOhkGJtEbED1rPNC2bdwHa8oTKu+OeHyRmUdlShgzfpn5lnQWhjFkuxZFT9v8VSx8wSR49K4rgK1n6lsllfNUSSUGyBidyvrmFsUBDjLZG2XyPhU1DcnCUGe1aKTyd7YasTov2Z9B8/9gxjonUW6Bc06+koZ/FEvKNNaoJZrkTTDtdhdV6x50lF9hAXa/pqlKCBJ9KWADNaStM4XmYFS0W1Y0AZT+lgQvf3bgLI8POEnF61vLhwfjDzTSyzXG0063mROJm3+PgJD2Tx8l1YS++HrPnj5Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T03:22:25.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="9qitmYqHtwKPOxwKUVdb" version="14.0.1" type="github">
+  <diagram id="p6JLM_8M2Qhi4dKrnYwR" name="Page-1">
+    <mxGraphModel dx="1426" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="etlffRKqnMTGyIb9DiFX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="etlffRKqnMTGyIb9DiFX-1" target="etlffRKqnMTGyIb9DiFX-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="etlffRKqnMTGyIb9DiFX-1" target="etlffRKqnMTGyIb9DiFX-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-1" value="red-team-default-network" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" parent="1" vertex="1">
+          <mxGeometry x="80" y="159" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="etlffRKqnMTGyIb9DiFX-2" target="etlffRKqnMTGyIb9DiFX-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="etlffRKqnMTGyIb9DiFX-2" target="etlffRKqnMTGyIb9DiFX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-2" value="elk-net" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" parent="1" vertex="1">
+          <mxGeometry x="470" y="159" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="etlffRKqnMTGyIb9DiFX-3" target="etlffRKqnMTGyIb9DiFX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="etlffRKqnMTGyIb9DiFX-3" target="etlffRKqnMTGyIb9DiFX-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-3" value="peering" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#5A30B5;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.peering;" parent="1" vertex="1">
+          <mxGeometry x="301" y="160" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="etlffRKqnMTGyIb9DiFX-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="147" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-10" value="jump-box" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" parent="1" vertex="1">
+          <mxGeometry x="97" y="360" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="etlffRKqnMTGyIb9DiFX-12" target="etlffRKqnMTGyIb9DiFX-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BhzW3LJiTMypbDvLu19S-2" value="5601:5601&lt;br&gt;9200:9200&lt;br&gt;5044:5044" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.02;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etlffRKqnMTGyIb9DiFX-12" target="etlffRKqnMTGyIb9DiFX-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="586" y="527" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-12" value="elk-vm" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" parent="1" vertex="1">
+          <mxGeometry x="487" y="360" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-27" value="anisble deployment and configuration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="etlffRKqnMTGyIb9DiFX-18" target="etlffRKqnMTGyIb9DiFX-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="92" y="530.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="531" />
+              <mxPoint x="400" y="531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-18" value="ansible docker container" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
+          <mxGeometry x="122" y="510" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-22" value="elk-docker" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
+          <mxGeometry x="512" y="510" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="etlffRKqnMTGyIb9DiFX-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhzW3LJiTMypbDvLu19S-1" value="Port 5601" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etlffRKqnMTGyIb9DiFX-32" target="etlffRKqnMTGyIb9DiFX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-32" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" parent="1" vertex="1">
+          <mxGeometry x="710" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="etlffRKqnMTGyIb9DiFX-37" value="Internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
+          <mxGeometry x="900" y="149.25" width="157.94" height="99.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
