@@ -26,4 +26,6 @@
 
     # Enable the filebeat service
     - name: Start filebeat service
-      command: service filebeat start
+      service:
+        name: filebeat
+        state: started
