@@ -3,15 +3,10 @@
   hosts: webservers
   become: true
   tasks:
-    # Use get_url to download the deb package
-    - name: Download filebeat deb package
-      get_url:
-        url: https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.6.1-amd64.deb
-        dest: /tmp/filebeat-7.6.1-amd64.deb
-
-    # Use dpkg to install the filebeat deb pkg
-    - name: Install filebeat-7.6.1-amd64.deb
-      command: dpkg -i /tmp/filebeat-7.6.1-amd64.deb
+    # Download and install the filebeat package from elastic.co
+    - name: Download and install filebeat
+      apt:
+        deb: https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.6.1-amd64.deb
 
     # Copy the filebeat configuration
     # (/etc/ansible/roles/files/filebeat-config.yml) to the host
