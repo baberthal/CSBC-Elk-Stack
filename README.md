@@ -19,3 +19,13 @@ The following directory structure is used to store anisble configurations:
     roles/        # Directory to store ansible roles
         files/    # Directory to store ansible playbooks for the Elk server
 ```
+
+## Filebeat
+
+Proof that filebeat is running:
+![filebeat-running](./images/filebeat-is-running.png)
+
+## Metricbeat
+
+Proof that metricbeat is running:
+![metricbeat-running](./images/metricbeat-is-running.png)
