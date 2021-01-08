@@ -154,6 +154,7 @@ To remove all the generated files with one command, run:
 sysadmin@JumpBox:~$ rm index.html*
 ```
 
+
 To issue the requests without generating the extraneous `index.html` files, one
 can run the following `wget` command:
 
@@ -166,17 +167,32 @@ sysadmin@JumpBox:~$ for (( i = 0; i < 10000; i++ )); do
 The `-O` option sends the downloaded file to `/dev/null`, and the `-o` option
 outputs `wget`'s logs to `/dev/null`, rather than `stderr`.
 
+
 If one prefers the more fully-featured `curl` program, the same can be achieved
 by running:
 
 ```bash
 sysadmin@JumpBox:~$ for (( i = 0; i < 10000; i++ )); do
-> curl -L 10.1.0.5 > /dev/null
+> curl -L -s 10.1.0.5 > /dev/null
 > done
 ```
 
 The `-L` flag tells `curl` to follow redirects, and the `-s` flag puts `curl` in
 "silent" or "quiet" mode, and doesn't show a progress bar.
+
+
+To issue requests to all three of the web VMs, (given that they have the IP
+addresses 10.1.0.5, 10.1.0.6, and 10.1.0.9), one can run the following
+command:
+
+```bash
+sysadmin@JumpBox:~$ for ip in 10.1.0.5 10.1.0.6 10.1.0.9; do
+> for (( i = 0; i < 10000; i++ )); do
+>   curl -L -s "${ip}" > /dev/null
+> done
+> done
+```
+
 
 ##### Results Analysis
 
