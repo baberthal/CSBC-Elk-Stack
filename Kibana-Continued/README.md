@@ -20,13 +20,14 @@ The script located [here](./scripts/ssh-barrage.sh) can be used from the JumpBox
 the Web VMs.
 
 To use the script, simply download it to the JumpBox (available at [this
-url]()), ensure it is executable, and run it.
+url](https://raw.githubusercontent.com/baberthal/CSBC-Elk-Stack/prime/Kibana-Continued/scripts/ssh-barrage.sh)),
+ensure it is executable, and run it.
 
 #### Script Installation
 
 ```bash
 # Assuming you are logged into the JumpBox VM
-sysadmin@JumpBox:~$ curl -O XXX_URL/ssh-barrage.sh
+sysadmin@JumpBox:~$ curl -O https://raw.githubusercontent.com/baberthal/CSBC-Elk-Stack/prime/Kibana-Continued/scripts/ssh-barrage.sh
 sysadmin@JumpBox:~$ chmod +x ./ssh-barrage.sh
 ```
 
@@ -89,7 +90,7 @@ Ansible container:
 ```bash
 # Assuming you have SSHed into the JumpBox, and attached the Ansible docker
 # container
-root@ed622b84bcd3:~\# ssh sysadmin@10.1.0.5
+root@ed622b84bcd3:~# ssh sysadmin@10.1.0.5
 ```
 
 Ensure the `stress` program is installed:
@@ -110,4 +111,8 @@ sysadmin@Web-1:~$ sudo stress --cpu 1
 Repeat these steps with all three of the Web VMs. The results should look like
 this:
 
-![stress-results-example](../images/stress-results.png)
+![stress-results-example](../images/stress-results-example.png)
+
+---
+
+### wget-DoS
