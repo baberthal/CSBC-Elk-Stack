@@ -95,6 +95,20 @@ Three playbooks in total were used, each implementing the following tasks:
   * Configure the VM to use more memory using the `sysctl` module
   * Download and launch the docker container for the ELK stack
 
+* [Install Filebeat Playbook](./ansible/roles/filebeat-playbook.yml)
+  * Download and install Filebeat
+  * Copy Filebeat configuration
+  * Enable Filebeat system module
+  * Setup Filebeat
+  * Start and enable Filebeat service
+
+* [Install Metricbeat Playbook](./ansible/roles/metricbeat-playbook.yml)
+  * Download and install Metricbeat
+  * Copy Metricbeat configuration
+  * Enable Metricbeat docker module
+  * Setup Metricbeat
+  * Start and enable Metricbeat service
+
 The following screenshot displays the result of running `docker ps` after
 successfully configuring the ELK instance.
 
@@ -145,8 +159,8 @@ SSH into the control node and follow the below steps:
 * Run the playbook, and navigate to `http://[PUBLIC IP OF ELK SERVER]:5601` to
   confirm that the installation worked as expected.
 
-* Example commands are shown below. Note that the exact commands may differ
-  based on the IP addresses of your machines.
+Example commands are shown below. Note that the exact commands may differ
+based on your exact configuration.
 
 From the Ansible control node:
 ```bash
