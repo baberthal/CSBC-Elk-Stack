@@ -27,17 +27,6 @@ implemented for the following reasons:
 
 * Allow access to the Kibana web interface running on the Elk-Stack-VM.
 
----
-
-* Allow HTTP access from my home network to the load-balancer
-  * Enables access to the DVWA application. The three web VMs that run the DVWA
-    sit behind a load-balancer which is open to the internet. To access the web
-    application, we need to allow HTTP access to the load-balancer.
-
-* Allow traffic over port 5601 to the Elk-VM from my home network
-  * Enables access to the Kibana web application from my home network so I can
-    view all the information collected by the ELK stack.
-
 The above controls represent a fairly simple access control configuration. These
 scenarios need to be taken into account when securing access control to any
 cloud network.
